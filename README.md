@@ -32,10 +32,10 @@
 nome:       Kauan Xavier Rangel Costa
 curso:      Análise e Desenvolvimento de Sistemas
 faculdade:  FATEC Cruzeiro
-status:     Em busca de bugs para resolver
+status:     Fazendo projeto de faculdade ACELERA ||
 ```
 
-Desenvolvedor em formação, apaixonado por tecnologia e por mundos onde a linha entre fantasia e realidade é tênue como a chama de uma lamparina na névoa de Krat.
+Desenvolvedor em formação, apaixonado por tecnologia e por mundos de jogos que contém.
 
 <br clear="right"/>
 
