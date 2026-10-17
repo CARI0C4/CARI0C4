@@ -1,83 +1,57 @@
 <div align="center">
 
-<!-- Banner principal — estética Lies of P / vitoriana dark -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=200&section=header&text=Kauan%20Xavier&fontSize=42&fontColor=c8a97e&fontAlignY=38&animation=fade" alt="Banner Kauan Xavier" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=17324D&height=200&section=header&text=Kauan%20Xavier&fontSize=42&fontColor=D6B56D&fontAlignY=38&animation=fade" alt="Banner Kauan Xavier" />
 
-</div>
+<p>
+	<img src="./liesopficon/borboleta1.png" height="48" alt="Borboleta azul" />
+	&nbsp;&nbsp;
+	<img src="./liesopficon/lamparina.png" height="66" alt="Lamparina de Krat" />
+	&nbsp;&nbsp;
+	<img src="./liesopficon/carta.png" height="54" alt="Carta selada" />
+	&nbsp;&nbsp;
+	<img src="./liesopficon/relogio.png" height="72" alt="Relogio de bolso" />
+	&nbsp;&nbsp;
+	<img src="./liesopficon/borboleta2.png" height="48" alt="Asa de borboleta azul" />
+</p>
 
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=12&section=header&text=&&fontColor=c8a97e" alt="divider" />
-
-</div>
-
-<div align="center">
-
-*" There is no salvation for the weak. "*
-
-</div>
-
-<br/>
-
-<!-- Separador ornamental -->
-<div align="center">
-
-───────────────── ✦ ❖ ✦ ─────────────────
+<p><em>"There is no salvation for the weak."</em></p>
 
 </div>
 
 ---
 
-## `> sobre mim`
+## Sobre mim
 
-<img align="right" src="https://github.com/CARI0C4.png?size=155" width="155" alt="Kauan Xavier avatar" />
+<img align="right" src="./liesopficon/liesofpanima%C3%A7%C3%A3o.gif" width="190" alt="Personagem de Lies of P" />
 
 ```yaml
 nome:       Kauan Xavier Rangel Costa
 curso:      Análise e Desenvolvimento de Sistemas
 faculdade:  FATEC Cruzeiro
-status:     Em busca de bugs para exterminar 🗡️
+status:     Em busca de bugs para resolver
 ```
 
-> Desenvolvedor em formação, apaixonado por tecnologia e por mundos  
-> onde a linha entre fantasia e realidade é tênue como a chama  
-> de uma lamparina na névoa de Krat.
+Desenvolvedor em formação, apaixonado por tecnologia e por mundos onde a linha entre fantasia e realidade é tênue como a chama de uma lamparina na névoa de Krat.
 
 <br clear="right"/>
 
 ---
 
-## `> linguagens & ferramentas`
+## Linguagens e ferramentas
 
 <div align="center">
 
-| Linguagem / Tecnologia | Proficiência |
-|:----------------------:|:------------:|
-| C | ████████████████░░░░ |
-| C++ | ███████████████░░░░░ |
-| Python | █████████████████░░░ |
-| Java | ████████████████░░░░ |
-| .NET MAUI Hybrid | ██████████░░░░░░░░░░ |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-%23c8a97e?style=flat-square&logo=c&logoColor=1a1008)
-![C++](https://img.shields.io/badge/C%2B%2B-%23a08060?style=flat-square&logo=cplusplus&logoColor=1a1008)
-![Python](https://img.shields.io/badge/Python-%23c8a97e?style=flat-square&logo=python&logoColor=1a1008)
-![Java](https://img.shields.io/badge/Java-%23a08060?style=flat-square&logo=openjdk&logoColor=1a1008)
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-%23c8a97e?style=flat-square&logo=dotnet&logoColor=1a1008)
+![C](https://img.shields.io/badge/C-17324D?style=flat-square&logo=c&logoColor=D6B56D)
+![C++](https://img.shields.io/badge/C%2B%2B-17324D?style=flat-square&logo=cplusplus&logoColor=D6B56D)
+![Python](https://img.shields.io/badge/Python-17324D?style=flat-square&logo=python&logoColor=D6B56D)
+![Java](https://img.shields.io/badge/Java-17324D?style=flat-square&logo=openjdk&logoColor=D6B56D)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-17324D?style=flat-square&logo=dotnet&logoColor=D6B56D)
 
 </div>
 
 ---
 
-## `> projetos`
+## Projetos
 
 <div align="center">
 
@@ -91,13 +65,13 @@ status:     Em busca de bugs para exterminar 🗡️
 
 ---
 
-## `> estatísticas`
+## Estatísticas
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=CARI0C4&show_icons=true&theme=transparent&title_color=c8a97e&text_color=a08060&icon_color=c8a97e&border_color=3a2510&bg_color=00000000" alt="GitHub stats" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=CARI0C4&show_icons=true&theme=transparent&title_color=D6B56D&text_color=C7D4DF&icon_color=77BDEB&border_color=29445E&bg_color=0D1824" alt="GitHub stats" />
 
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CARI0C4&layout=compact&theme=transparent&title_color=c8a97e&text_color=a08060&border_color=3a2510&bg_color=00000000" alt="Top languages" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CARI0C4&layout=compact&theme=transparent&title_color=D6B56D&text_color=C7D4DF&border_color=29445E&bg_color=0D1824" alt="Top languages" />
 
 </div>
 
@@ -105,7 +79,7 @@ status:     Em busca de bugs para exterminar 🗡️
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=CARI0C4&theme=transparent&ring=c8a97e&fire=c8a97e&currStreakLabel=a08060&sideLabels=a08060&currStreakNum=c8a97e&sideNums=c8a97e&dates=6b4d2a&border=3a2510" alt="Streak stats" />
+<img src="https://streak-stats.demolab.com/?user=CARI0C4&theme=transparent&ring=D6B56D&fire=77BDEB&currStreakLabel=C7D4DF&sideLabels=C7D4DF&currStreakNum=D6B56D&sideNums=D6B56D&dates=8CA5B8&border=29445E" alt="Streak stats" />
 
 </div>
 
@@ -113,14 +87,15 @@ status:     Em busca de bugs para exterminar 🗡️
 
 <div align="center">
 
-───────────────── ✦ ❖ ✦ ─────────────────
+<img src="./liesopficon/duasborboletas.png" height="52" alt="Duas borboletas azuis" />
 
-*" Even if your legs give out, crawl forward. "*
+<em>"Even if your legs give out, crawl forward."</em>
 
 <br/>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CARI0C4.CARI0C4&left_color=3a2510&right_color=c8a97e&left_text=visitors)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CARI0C4.CARI0C4&left_color=17324D&right_color=D6B56D&left_text=visitors)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=120&section=footer&fontColor=c8a97e" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=17324D&height=120&section=footer&fontColor=D6B56D" alt="Footer" /><img width="736" height="703" alt="helloP" src="https://github.com/user-attachments/assets/81d50b5b-0247-4131-a9d6-ad792bc0db3a" />
+<img width="736" height="703" alt="helloP" src="https://github.com/user-attachments/assets/693bac2c-df8f-4b23-aebe-e9ec4ad7d035" />
