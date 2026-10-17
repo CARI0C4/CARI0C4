@@ -1,3 +1,11 @@
+![Uploading liesofpanimação.gif…]()
+![Uploading borboleta1.png…]()
+![Uploading borboleta2.png…]()
+![Uploading duasborboletas.png…]()
+![Uploading carta.png…]()
+![Uploading relogio.png…]()
+![Uploading lamparina.png…]()
+![Uploading helloP.png…]()
 <img width="900" height="36" alt="lop-divider" src="https://github.com/user-attachments/assets/d01d9fa3-ad0c-436d-81ee-18c4d1968e47" />
 [CARI0C4-README.md](https://github.com/user-attachments/files/33610404/CARI0C4-README.md)<div align="center">
 
