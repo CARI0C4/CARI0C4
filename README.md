@@ -1,26 +1,17 @@
-![Uploading liesofpanimação.gif…]()
-![Uploading borboleta1.png…]()
-![Uploading borboleta2.png…]()
-![Uploading duasborboletas.png…]()
-![Uploading carta.png…]()
-![Uploading relogio.png…]()
-![Uploading lamparina.png…]()
-![Uploading helloP.png…]()
-<img width="900" height="36" alt="lop-divider" src="https://github.com/user-attachments/assets/d01d9fa3-ad0c-436d-81ee-18c4d1968e47" />
-[CARI0C4-README.md](https://github.com/user-attachments/files/33610404/CARI0C4-README.md)<div align="center">
+<div align="center">
 
 <!-- Banner principal — estética Lies of P / vitoriana dark -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=200&section=header&text=Kauan%20Xavier&fontSize=42&fontColor=c8a97e&fontAlignY=38&animation=fadeIn&desc=Rangel%20Costa%20%E2%80%94%20Developer%20%7C%20FATEC%20Cruzeiro&descSize=15&descFontColor=a08060&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=200&section=header&text=Kauan%20Xavier&fontSize=42&fontColor=c8a97e&fontAlignY=38&animation=fade" alt="Banner Kauan Xavier" />
 
 </div>
 
-<!-- GIF do Lies of P centralizado -->
-<div align="center">
-<img src="./liesofpanimação.gif" width="480" style="border-radius:4px"/>
-</div>![Uploading helloP.png…]()
-
-
 <br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=12&section=header&text=&&fontColor=c8a97e" alt="divider" />
+
+</div>
 
 <div align="center">
 
@@ -32,11 +23,8 @@
 
 <!-- Separador ornamental -->
 <div align="center">
-<img src="./strawberry-divider.svg" width="0" height="0"/>
 
-```
 ───────────────── ✦ ❖ ✦ ─────────────────
-```
 
 </div>
 
@@ -44,7 +32,7 @@
 
 ## `> sobre mim`
 
-<img align="right" src="./helloP.png" width="155"/>
+<img align="right" src="https://github.com/CARI0C4.png?size=155" width="155" alt="Kauan Xavier avatar" />
 
 ```yaml
 nome:       Kauan Xavier Rangel Costa
@@ -107,9 +95,9 @@ status:     Em busca de bugs para exterminar 🗡️
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=CARI0C4&show_icons=true&theme=transparent&title_color=c8a97e&text_color=a08060&icon_color=c8a97e&border_color=3a2510&bg_color=00000000&hide_border=false&rank_icon=github" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=CARI0C4&show_icons=true&theme=transparent&title_color=c8a97e&text_color=a08060&icon_color=c8a97e&border_color=3a2510&bg_color=00000000" alt="GitHub stats" />
 
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CARI0C4&layout=compact&theme=transparent&title_color=c8a97e&text_color=a08060&border_color=3a2510&bg_color=00000000" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CARI0C4&layout=compact&theme=transparent&title_color=c8a97e&text_color=a08060&border_color=3a2510&bg_color=00000000" alt="Top languages" />
 
 </div>
 
@@ -117,7 +105,7 @@ status:     Em busca de bugs para exterminar 🗡️
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=CARI0C4&theme=transparent&ring=c8a97e&fire=c8a97e&currStreakLabel=a08060&sideLabels=a08060&currStreakNum=c8a97e&sideNums=c8a97e&dates=6b4d2a&border=3a2510" />
+<img src="https://streak-stats.demolab.com/?user=CARI0C4&theme=transparent&ring=c8a97e&fire=c8a97e&currStreakLabel=a08060&sideLabels=a08060&currStreakNum=c8a97e&sideNums=c8a97e&dates=6b4d2a&border=3a2510" alt="Streak stats" />
 
 </div>
 
@@ -125,9 +113,7 @@ status:     Em busca de bugs para exterminar 🗡️
 
 <div align="center">
 
-```
 ───────────────── ✦ ❖ ✦ ─────────────────
-```
 
 *" Even if your legs give out, crawl forward. "*
 
@@ -137,4 +123,4 @@ status:     Em busca de bugs para exterminar 🗡️
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=120&section=footer&fontColor=c8a97e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=120&section=footer&fontColor=c8a97e" alt="footer" />
