@@ -97,5 +97,4 @@ Desenvolvedor em formação, apaixonado por tecnologia e por mundos onde a linha
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=17324D&height=120&section=footer&fontColor=D6B56D" alt="Footer" /><img width="736" height="703" alt="helloP" src="https://github.com/user-attachments/assets/81d50b5b-0247-4131-a9d6-ad792bc0db3a" />
-<img width="736" height="703" alt="helloP" src="https://github.com/user-attachments/assets/693bac2c-df8f-4b23-aebe-e9ec4ad7d035" />
+<
