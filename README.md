@@ -16,13 +16,17 @@
 
 <p><em>"There is no salvation for the weak."</em></p>
 
+<p>
+	<img src="./liesopficon/liesofpanima%C3%A7%C3%A3o.gif" width="450" alt="Animação de Lies of P" />
+</p>
+
 </div>
 
----
+<img src="./liesopficon/lop-divider.svg" width="100%" alt="Divisor ornamental dourado" />
 
 ## Sobre mim
 
-<img align="right" src="./liesopficon/liesofpanima%C3%A7%C3%A3o.gif" width="190" alt="Personagem de Lies of P" />
+<img align="right" src="./liesopficon/helloP.png" width="145" alt="HelloP de Lies of P" />
 
 ```yaml
 nome:       Kauan Xavier Rangel Costa
@@ -35,7 +39,7 @@ Desenvolvedor em formação, apaixonado por tecnologia e por mundos onde a linha
 
 <br clear="right"/>
 
----
+<img src="./liesopficon/lop-divider.svg" width="100%" alt="Divisor ornamental dourado" />
 
 ## Linguagens e ferramentas
 
@@ -49,9 +53,9 @@ Desenvolvedor em formação, apaixonado por tecnologia e por mundos onde a linha
 
 </div>
 
----
+<img src="./liesopficon/lop-divider.svg" width="100%" alt="Divisor ornamental dourado" />
 
-## Projetos
+## Projetos <img align="right" src="./liesopficon/carta.png" width="82" alt="Carta selada" />
 
 <div align="center">
 
@@ -63,7 +67,7 @@ Desenvolvedor em formação, apaixonado por tecnologia e por mundos onde a linha
 
 </div>
 
----
+<img src="./liesopficon/lop-divider.svg" width="100%" alt="Divisor ornamental dourado" />
 
 ## Estatísticas
 
@@ -83,11 +87,11 @@ Desenvolvedor em formação, apaixonado por tecnologia e por mundos onde a linha
 
 </div>
 
----
+<img src="./liesopficon/lop-divider.svg" width="100%" alt="Divisor ornamental dourado" />
 
 <div align="center">
 
-<img src="./liesopficon/duasborboletas.png" height="52" alt="Duas borboletas azuis" />
+<img src="./liesopficon/duasborboletas.png" height="180" alt="Duas borboletas azuis" />
 
 <em>"Even if your legs give out, crawl forward."</em>
 
@@ -97,4 +101,4 @@ Desenvolvedor em formação, apaixonado por tecnologia e por mundos onde a linha
 
 </div>
 
-<
+<img src="https://capsule-render.vercel.app/api?type=waving&color=17324D&height=120&section=footer&fontColor=D6B56D" alt="Footer" />
